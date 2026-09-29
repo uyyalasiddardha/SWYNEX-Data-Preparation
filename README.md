@@ -92,12 +92,4 @@ Through this task, I gained practical experience in:
 **Organization:** SWYNEX Technologies  
 **Project:** Data Preparation & Cleaning
 
----
-
-## 🔗 Repository
-
-This repository contains the complete Power BI project and documentation for the data preparation task.
-
----
-
 ### ⭐ Thank you for visiting this project!
